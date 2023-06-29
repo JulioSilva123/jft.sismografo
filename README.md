@@ -1,14 +1,14 @@
 # jft.sismografo
 
-Versão C#
-  gRPC
-  SignalR
-Versão VB.NET
-  gRPC
-  SignalR
-Versão Web
-  MVC
-  WebForms
-Versão JavaScript
-  Node.js
+Versão C# <br>
+  gRPC <br>
+  SignalR <br> <br>
+Versão VB.NET <br>
+  gRPC <br>
+  SignalR <br> <br>
+Versão Web <br>
+  MVC <br>
+  WebForms <br> <br>
+Versão JavaScript <br>
+  Node.js <br>
   Angular
